@@ -16,6 +16,6 @@ public class SpringBootDockerApplication {
 
 	@GetMapping(value="/get")
 	public String get() {
-		return "hello u just";
+		return "hello u just go";
 	}
 }
